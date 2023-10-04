@@ -16,3 +16,7 @@
 4. ik raad Z - fout
 5. ik raad bananensoepjes - fout
 6. ik raad ABCDEFGHIJKLMN
+
+
+// mijn beurt om dingen te breken
+7. ik raad ABCDEFGIJKLMN

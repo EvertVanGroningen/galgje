@@ -14,3 +14,4 @@
 2. Y - fout
 3. Q - fout
 4. ik raad Z - fout
+5. ik raad bananensoepjes

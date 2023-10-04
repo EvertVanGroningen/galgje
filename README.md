@@ -15,3 +15,6 @@
 3. Q - fout
 4. ik raad Z - fout
 5. ik raad bananensoepjes - fout
+
+
+// mijn beurt om dingen te breken

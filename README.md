@@ -13,3 +13,4 @@
 1. Q - fout
 2. Y - fout
 3. Q - fout
+4. ik raad Z

@@ -15,3 +15,4 @@
 3. Q - fout
 4. ik raad Z - fout
 5. ik raad bananensoepjes - fout
+6. ik raad ABCDEFGHIJKLMN

@@ -11,5 +11,6 @@
 
 ## Beurten
 1. a - goed!
-2. e
-3. u
+2. e - goed
+3. u - fout
+4. bananensoep
